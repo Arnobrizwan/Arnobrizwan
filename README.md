@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" />
+<img align="right" width="350" src="https://github.com/arnobrizwan/arnobrizwan/blob/main/Profile%20Pic.jpg" alt="Arnob Rizwan Ahmad" style="border-radius: 15px; border: 3px solid #36BCF7;" />
 
 ```yaml
 name: "Arnob Rizwan Ahmad"
@@ -172,28 +172,7 @@ hobbies: ["Coding", "AI Research", "Entrepreneurship"]
         </ul>
       </td>
     </tr>
-    <tr>
-      <td>
-        <h4>📋 Director</h4>
-        <p><strong>ISS Central UTM</strong> | <em>2025 - Present</em></p>
-        <ul>
-          <li>Led events and initiatives for 200+ participants</li>
-          <li>Organized technical workshops and career development programs</li>
-          <li>Coordinated with university administration and student bodies</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h4>👨‍🏫 Head of Department (Academic)</h4>
-        <p><strong>ISS Bangladesh</strong> | <em>2024 - Present</em></p>
-        <ul>
-          <li>Mentored 50+ students in technical skills development</li>
-          <li>Developed academic curriculum and learning materials</li>
-          <li>Facilitated knowledge sharing sessions and study groups</li>
-        </ul>
-      </td>
-    </tr>
+
   </table>
 </div>
 
