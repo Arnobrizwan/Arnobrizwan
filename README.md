@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-<img align="right" width="350" src="https://github.com/arnobrizwan/arnobrizwan/blob/main/Profile%20Pic.jpg" alt="Arnob Rizwan Ahmad" style="border-radius: 15px; border: 3px solid #36BCF7;" />
+<img align="right" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" />
 
 ```yaml
 name: "Arnob Rizwan Ahmad"
@@ -172,7 +172,6 @@ hobbies: ["Coding", "AI Research", "Entrepreneurship"]
         </ul>
       </td>
     </tr>
-
   </table>
 </div>
 
