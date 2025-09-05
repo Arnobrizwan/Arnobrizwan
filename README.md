@@ -1,130 +1,290 @@
-# Arnob Rizwan Ahmad
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Arnob%20Rizwan%20Ahmad&fontSize=70&fontAlignY=38&desc=Software%20Engineering%20Undergraduate%20%7C%20AI%20%26%20Cloud%20Enthusiast&descAlignY=51&descAlign=62&animation=twinkling" />
+</div>
 
-**Software Engineering Undergraduate | AI & Cloud Enthusiast | Mobile & Backend Developer**
+<div align="center">
+  <h1>👋 Hello, I'm Arnob!</h1>
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineering+Undergraduate;AI+%26+Cloud+Enthusiast;Mobile+%26+Backend+Developer;Problem+Solver+%26+Team+Player" alt="Typing SVG" />
+  </p>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arnobrizwan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+## 🚀 About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" />
+
+```yaml
+name: "Arnob Rizwan Ahmad"
+located_in: "Johor Bahru, Malaysia"
+current_job: "Founding Backend Engineer at Framic"
+education: "Software Engineering Undergraduate"
+
+fields_of_interests:
+  - "Computer Vision"
+  - "AI & Machine Learning"
+  - "Cloud Engineering"
+  - "Mobile App Development"
+  - "Backend Systems"
+  
+currently_learning: ["Advanced AI/ML", "Cloud Architecture", "Computer Vision"]
+2025_goals: ["Contribute to Open Source", "Build AI-Powered Solutions"]
+hobbies: ["Coding", "AI Research", "Entrepreneurship"]
+```
+
+## 🛠️ Tech Stack & Tools
+
+### Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,php,java,dart,html,css" />
 </p>
 
-## About Me
-
-I'm a highly motivated software engineering undergraduate with a passion for **Computer Vision, AI, and Cloud Engineering**. I specialize in **mobile app development, backend systems, and AI/ML model deployment** using modern technologies like Python, PyTorch, TensorFlow, and ONNX.
-
-With a proven **entrepreneurial mindset** and strong collaborative skills, I excel at rapidly prototyping scalable solutions and have experience leading technical initiatives from concept to deployment.
-
-## Featured Projects
-
-### [MediSign AI](https://github.com/arnobrizwan/) - *AI-Powered Healthcare Platform*
-- Flutter + Firebase real-time synchronization for medical records & appointments
-- Gemini-powered multilingual AI chat with intelligent triage capabilities
-- AI Sign Language Translation & Telemedicine integration
-- Role-based Firestore access with family portal & gamified health education
-
-### [Cityscape-AI](https://github.com/arnobrizwan/) - *Smart Urban Planning Assistant*
-- Flutter + Firebase + GCP stack for traffic simulation & optimization
-- RAG chatbot powered by PaLM API + LangChain for urban feature queries
-- Reinforcement Learning agents for real-time traffic light optimization
-- Containerized deployment with Docker + Firebase Hosting on GCP
-
-### [BarakahBot](https://github.com/arnobrizwan/) - *AI-Driven Islamic Donation Platform*
-- Next.js SSR with NextAuth.js JWT authentication
-- Stripe payment integration (FPX, cards, e-wallets)
-- AI-powered ZakatBot with personalized nisab calculations
-- Campaign discovery, fund tracking & NGO verification system
-
-### [Image Style Transfer with WebAssembly](https://github.com/arnobrizwan/)
-- Rust + WebAssembly ONNX Runtime for neural style transfer
-- Built with Next.js 14, React 18, TypeScript, Tailwind CSS
-- Real-time webcam processing with offline PWA support
-
-## Professional Experience
-
-**Founding Backend Engineer** - *Framic* (Aug 2025 – Present)  
-Architecting backend infrastructure for an AI-powered storage application that combines gallery and drive functionalities. Leading development of AI search capabilities, real-time indexing, and scalable system design.
-
-**Software Engineering Resident** - *Headstarter* (Sep 2024 – Mar 2025)  
-Developed 14+ ML & full-stack projects using Python and TypeScript on AWS/Vercel. Built 5 neural networks and implemented advanced techniques including LLM chaining, hyperparameter tuning, and model fine-tuning.
-
-## Certifications
-
-### AWS (Mar 2025)
-- SageMaker JumpStart
-- Customizing Large Language Models
-- Prompt Engineering
-
-### Microsoft Azure (Jun 2024)
-- Azure OpenAI Service
-- Natural Language Processing with Azure AI
-- AI Document Intelligence
-
-## Leadership & Recognition
-
-**Competition Achievements**
-- **MediSign AI**: APAC Hackathon Finalist
-- **BarakahBot**: UM Hackathon Top 10
-- **Cityscape-AI**: KitaHack Finalist
-
-**Leadership Roles**
-- **Director**, ISS Central UTM (2025–Present) - Organized events for 200+ participants
-- **Head of Department (Academic)**, ISS Bangladesh (2024–Present) - Mentored 50+ students
-
-## Technical Skills
-
-### Languages & Frameworks
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="35"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="35"/>
+### Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel,flutter,bootstrap,tailwind,pytorch,tensorflow" />
 </p>
 
-### Frontend & Mobile
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="35"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="35"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="35"/>
+### Databases & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,aws,gcp,vercel" />
 </p>
 
-### Cloud & DevOps
-<p>
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="35"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="35"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="35"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="35"/>
+### Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux" />
 </p>
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arnobrizwan&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arnobrizwan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnobrizwan&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnobrizwan&theme=default" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnobrizwan&theme=tokyonight" alt="GitHub Streak"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnobrizwan&show_icons=true&layout=compact" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnobrizwan&theme=tokyo-night" alt="Activity Graph"/>
+</div>
 
-## Contact Information
+## 🌟 Featured Projects
 
-📧 **Email:** [arnobrizwan23@gmail.com](mailto:arnobrizwan23@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/arnob-rizwan-033704239](https://www.linkedin.com/in/arnob-rizwan-033704239/)  
-📱 **Phone:** +60 17 7260362  
-📍 **Location:** Johor Bahru, Malaysia
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🏥 MediSign AI</h3>
+        <div align="center">
+          <a href="https://github.com/arnobrizwan/" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=arnobrizwan&repo=medisign-ai&theme=tokyonight" />
+          </a>
+          <p><strong>Flutter, Firebase, AI</strong> - AI-Powered Healthcare Platform</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🏙️ Cityscape-AI</h3>
+        <div align="center">
+          <a href="https://github.com/arnobrizwan/" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=arnobrizwan&repo=cityscape-ai&theme=tokyonight" />
+          </a>
+          <p><strong>Flutter, GCP, RL</strong> - Smart Urban Planning Assistant</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🕌 BarakahBot</h3>
+        <div align="center">
+          <a href="https://github.com/arnobrizwan/" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=arnobrizwan&repo=barakahbot&theme=tokyonight" />
+          </a>
+          <p><strong>Next.js, AI</strong> - AI-Driven Islamic Donation Platform</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🎨 Style Transfer WASM</h3>
+        <div align="center">
+          <a href="https://github.com/arnobrizwan/" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=arnobrizwan&repo=style-transfer-wasm&theme=tokyonight" />
+          </a>
+          <p><strong>Rust, WebAssembly, ONNX</strong> - Neural Style Transfer</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🎓 Education & Certifications
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <strong>🎓 Software Engineering</strong><br>
+        Universiti Teknologi Malaysia<br>
+        <em>Undergraduate</em>
+      </td>
+      <td align="center">
+        <strong>📜 AWS Certifications</strong><br>
+        SageMaker, LLMs, Prompt Engineering<br>
+        <em>Mar 2025</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <strong>🏆 Microsoft Azure AI</strong><br>
+        OpenAI Service, NLP, Document Intelligence<br>
+        <em>Jun 2024</em>
+      </td>
+      <td align="center">
+        <strong>📚 Headstarter Resident</strong><br>
+        Software Engineering Program<br>
+        <em>Sep 2024 - Mar 2025</em>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 💼 Professional Experience
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h4>🚀 Founding Backend Engineer</h4>
+        <p><strong>Framic</strong> | <em>Aug 2025 - Present</em></p>
+        <ul>
+          <li>Architecting backend infrastructure for AI-powered storage application</li>
+          <li>Leading development of AI search capabilities and real-time indexing</li>
+          <li>Designing scalable systems for gallery and drive functionalities</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h4>💻 Software Engineering Resident</h4>
+        <p><strong>Headstarter</strong> | <em>Sep 2024 - Mar 2025</em></p>
+        <ul>
+          <li>Developed 14+ ML & full-stack projects using Python and TypeScript</li>
+          <li>Built 5 neural networks with advanced techniques</li>
+          <li>Implemented LLM chaining, hyperparameter tuning, and model fine-tuning</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h4>📋 Director</h4>
+        <p><strong>ISS Central UTM</strong> | <em>2025 - Present</em></p>
+        <ul>
+          <li>Led events and initiatives for 200+ participants</li>
+          <li>Organized technical workshops and career development programs</li>
+          <li>Coordinated with university administration and student bodies</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h4>👨‍🏫 Head of Department (Academic)</h4>
+        <p><strong>ISS Bangladesh</strong> | <em>2024 - Present</em></p>
+        <ul>
+          <li>Mentored 50+ students in technical skills development</li>
+          <li>Developed academic curriculum and learning materials</li>
+          <li>Facilitated knowledge sharing sessions and study groups</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🎯 Skills & Expertise
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="25%">
+        <h4 align="center">🤖 AI & ML</h4>
+        <ul>
+          <li>PyTorch</li>
+          <li>TensorFlow</li>
+          <li>Computer Vision</li>
+          <li>ONNX</li>
+          <li>LLM Integration</li>
+          <li>Model Deployment</li>
+        </ul>
+      </td>
+      <td width="25%">
+        <h4 align="center">☁️ Cloud & Backend</h4>
+        <ul>
+          <li>AWS/GCP</li>
+          <li>Firebase</li>
+          <li>Docker</li>
+          <li>Spring Boot</li>
+          <li>Laravel</li>
+          <li>RESTful APIs</li>
+        </ul>
+      </td>
+      <td width="25%">
+        <h4 align="center">📱 Mobile & Frontend</h4>
+        <ul>
+          <li>Flutter</li>
+          <li>React/Next.js</li>
+          <li>TypeScript</li>
+          <li>Tailwind CSS</li>
+          <li>Real-time Sync</li>
+          <li>Progressive Web Apps</li>
+        </ul>
+      </td>
+      <td width="25%">
+        <h4 align="center">🛠️ Development</h4>
+        <ul>
+          <li>Python</li>
+          <li>Java</li>
+          <li>JavaScript/TypeScript</li>
+          <li>Rust</li>
+          <li>WebAssembly</li>
+          <li>Git/GitHub</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  <p>I'm always open to interesting conversations and collaboration opportunities!</p>
+  
+  <a href="mailto:arnobrizwan23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/arnobrizwan">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/arnob-rizwan-033704239/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="tel:+60177260362">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+  </a>
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arnobrizwan&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+## 📈 Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=arnobrizwan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
 ---
 
-*Open to collaboration on AI/ML projects, mobile development, and cloud engineering opportunities.*
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <p><em>"Innovation distinguishes between a leader and a follower."</em> - Steve Jobs</p>
+  <p><strong>⭐ Star some repositories if you find them interesting!</strong></p>
+</div>
