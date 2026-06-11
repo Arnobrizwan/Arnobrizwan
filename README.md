@@ -263,10 +263,6 @@ timeline
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arnobrizwan&theme=flat&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arnobrizwan&bg_color=ffffff&color=24292f&line=2f9e44&point=ff5c1a&area=true&area_color=d8f5a2&hide_border=false" alt="Activity Graph"/>
 </div>
 
