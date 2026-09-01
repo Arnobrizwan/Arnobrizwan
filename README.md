@@ -33,7 +33,7 @@
 
 ```yaml
 name: "Arnob Rizwan Ahmad"
-located_in: "Johor Bahru, Malaysia 🇲🇾 — open to Dhaka & remote"
+located_in: "Chittagong, Bangladesh 🇧🇩 — open to Dhaka & remote"
 education: "B.Sc. Software Engineering @ UTM — graduated July 2026, First Class"
 
 currently:
