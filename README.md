@@ -52,11 +52,13 @@ Products with a URL or an install — not repositories.
 ## Stack
 
 ```yaml
-ai_ml:    PyTorch · scikit-learn · XGBoost · Optuna · SHAP
-llm:      LangChain · LangGraph · CrewAI · RAG (FAISS, pgvector) · blinded-judge evals · AWS Bedrock
-backend:  Python · FastAPI · Django REST · Node.js · ASP.NET Core · PostgreSQL · Redis
-frontend: TypeScript · React · Next.js · Angular · React Native · Flutter
-infra:    Docker · Kubernetes · AWS · Azure · GCP · GitHub Actions · Jenkins
+languages: Python · SQL · TypeScript · JavaScript · C# · Java · Dart
+ai_ml:     PyTorch · scikit-learn · XGBoost · LightGBM · Optuna · SHAP
+llm:       LangChain · LangGraph · CrewAI · RAG (FAISS, pgvector) · blinded-judge evals · AWS Bedrock · Gemini
+gpu:       AMD ROCm · HIP programming model
+backend:   Python · FastAPI · Django REST · Node.js · Express · NestJS · ASP.NET Core · Celery · PostgreSQL · Redis
+frontend:  TypeScript · React · Next.js · Angular · React Native · Flutter
+infra:     Docker · Kubernetes · AWS · Azure · GCP · GitHub Actions · Jenkins
 ```
 
 ## Credentials
