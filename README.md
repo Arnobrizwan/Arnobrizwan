@@ -30,6 +30,7 @@ Products with a URL or an install — not repositories.
 
 | | What it is | |
 |---|---|---|
+| **Al-Ibadah** 🇧🇩 | Bangla-first Islamic reference site — the Quran with ten reciters, **36,432 hadith**, duas, prayer times and qibla for 12 cities, and an `/ask` assistant that retrieves over a hand-written, source-cited corpus in the browser and refuses rather than invents. Static build, 141 prerendered routes. | [alibadahfoundation.com](https://alibadahfoundation.com) |
 | **Moien Delivery** 🇱🇺 | Luxembourg food-delivery platform, three user roles. I built the Angular web client and the React Native app — real-time tracking and driver dispatch over REST + WebSockets. | Play Store · App Store |
 | **MOMS Oil Change** 🇺🇸 | Live production site for a Philadelphia fleet-maintenance business. Nav redesign, three product pages, SEO overhaul. | [momsoilchange.com](https://momsoilchange.com) |
 | **Best Auto Rentals** | Car rental platform — booking flow, admin dashboard, provider-agnostic AI concierge with output validation. 80 tests across 20 suites. | [bestauto-rentals.vercel.app](https://bestauto-rentals.vercel.app) |
